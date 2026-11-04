@@ -16,4 +16,4 @@ chmod +x /usr/local/bin/drift
 ```
 that's all, also you can choice y our own name of file, like "d" or something short
 
-idk why i create this repo, but maybe its help someone
+idk why i create this repo, but maybe this could help someone
